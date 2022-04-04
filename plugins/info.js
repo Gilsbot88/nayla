@@ -7,25 +7,25 @@ let info = `
 ┃
 ┃> Bot Dibuat Dengan :
 ┃• JavaScript via NodeJS
-┃• FFmpeg
+┃• Heroku
 ┃• ImageMagick
 ┃
 ┃> Thanks To :
 ┃• Nurutomo
 ┃• Zevano
-┃• RC047/Kuhong
+┃• Ragil
 ┃
 ┣━━°❀❬ *DONASI* ❭❀°━━┓
-┣➥ *TRI:* [089520306297]
-┣➥ *Dana:* [08818770766]
-┣➥ *Gopay:* [08818770766]
-┣➥ *LinkAja:* [08818770766]
+┣➥ *Telkomsel:* [081318910218]
+┣➥ *Dana:* [083136890848]
+┣➥ *Gopay:* [081318910218]
+┣➥ *LinkAja:* [menyusul]
 ┃ 「 *Chat OWNER* 」
-┃ > *INGIN DOANSI ? https://wa.me/628818770766*
+┃ > *INGIN DOANSI ? https://wa.me/6283136890848*
 ┗━━━━━━━━━━━━━━━━
 `.trim()
 
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*NAYLABOTZ TERVERIFIKASI*', 'status@broadcast')
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*AGIL BOTZ TERVERIFIKASI*', 'status@broadcast')
 }
 handler.help = ['info']
 handler.tags = ['info']
