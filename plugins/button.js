@@ -3,7 +3,7 @@ conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
 
                     "listMessage":  {
 
-                        "title": "Berikut ini adalah Daftar menu\nNayLa-B0TZ Sebelum menggunakan bot",
+                        "title": "Berikut ini adalah Daftar menu\nAgil-B0TZ Sebelum menggunakan bot",
 
                         "description": "lebih baik membaca rules terlebih dahulu\n",
                         "footerText": botwm,
