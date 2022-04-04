@@ -114,7 +114,7 @@ const freply = {key:{ fromMe:false, participant: `0@s.whatsapp.net`, ...(m.chat 
 
 						},
 
-						"businessOwnerJid": "628818770766@s.whatsapp.net"}}}    
+						"businessOwnerJid": "6283136890848@s.whatsapp.net"}}}    
 
 let package = JSON.parse(fs.readFileSync(path.join(__dirname, '../package.json')))
 
@@ -358,11 +358,11 @@ Im *NayLaBotz* And You Use
 
     externalAdReply: {
 
-                    mediaUrl: 'https://youtu.be/-tKVN2mAKRI',
+                    mediaUrl: 'https://youtu.kntl',
 
-                    title: 'CREATED BY ZEVANO',
+                    title: 'CREATED BY RAGIL',
 
-                    body: 'NayLa-B0TZ',
+                    body: 'Agil-B0TZ',
 
                     thumbnail: await(await fetch(global.thum)).buffer()
 
